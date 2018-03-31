@@ -200,4 +200,4 @@ const innerFn = outerFn();
 //Now invoke innerFn and save the result to a variable called finalResult.
 
 //Code Here
-const finalResult = innerFn;
+const finalResult = innerFn();
